@@ -9,4 +9,7 @@ def subv(a, b):
 def mult(a, b):
     return a * b * 8
 
+def devis(a, b):
+    return a * b
+
 print(mult(4, 5))
