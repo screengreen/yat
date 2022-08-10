@@ -17,6 +17,9 @@ def devis(a, b):
     return a * b
 
 
+def multsub(a, b):
+    return mult(a, b) - subv(a, b)
+
 print(mult(4, 5))
 print(devis(4, 2))
 print(subv(6, 3))
