@@ -19,3 +19,4 @@ def devis(a, b):
 
 print(mult(4, 5))
 print(devis(4, 2))
+print(subv(6, 3))
